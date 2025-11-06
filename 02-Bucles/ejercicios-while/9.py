@@ -1,0 +1,32 @@
+# Este script muestra un menú de opciones: 1- Leer datos. 2- Mostrar datos 3- Fin. El
+# usuario deberá teclear uno de ellos y el programa mostrará la opción elegida. Si
+# teclea un valor fuera del menú se mostrará un mensaje de error y se vuelve a pedir
+# un número de opción. El programa finaliza al teclear el 3. Pulso 1, mensaje Opción
+# leer datos. Y vuelve a pedir opción. Pulso 4 : Error y vuelve a pedir opción, Pulso 3:
+# Fin del programa y acaba.
+
+import os
+os.system("cls")
+
+
+try:
+    print("1- Leer datos.\n2- Mostrar datos\n3- Fin.")
+
+    opcion=int(input("Introduce un número (1-3): "))
+
+
+    while opcion!=3:
+        if opcion==1:
+            print("Has elegido la opción: 1 - Leer datos")
+        elif opcion==2:
+            print("Has elegido la opción: 2 - Mostrar datos")
+        else:
+            print("Error, introduce un número (1-3)")
+    
+        opcion=int(input("Introduce un número (1-3): "))
+
+    print("Fin del programa")
+
+except Exception as ex:
+    print(f"Ha ocurrido un error, {ex}")
+

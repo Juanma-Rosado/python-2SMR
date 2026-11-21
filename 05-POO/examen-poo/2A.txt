@@ -1,0 +1,13 @@
+Cabecera Seneca linea 1 (se ignora)
+Cabecera Seneca linea 2 (se ignora)
+Cabecera Seneca linea 3 (se ignora)
+Cabecera Seneca linea 4 (se ignora)
+Cabecera Seneca linea 5 (se ignora)
+Cabecera Seneca linea 6 (se ignora)
+Cabecera Seneca linea 7 (se ignora)
+Cabecera Seneca linea 8 (se ignora)
+Pil Perez, Paco|ppp@g.educaand.es|2Asmr
+Gil Perez, Carmen|cgp@g.educaand.es|2Asmr
+Gomez Gomez, Luis|lgg@g.educaand.es|2Asmr
+Ruiz Lopez, Ana|arl@g.educaand.es|2Asmr
+Martin Sanz, Pedro|pms@g.educaand.es|2Asmr
